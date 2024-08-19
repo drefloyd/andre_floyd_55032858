@@ -1,0 +1,27 @@
+{
+    "name": "andre_floyd_55032858",
+    "version": "1.0.0",
+    "description": "Andre Floyd final",
+    "main": "index.js",
+    "scripts": {
+        "dev": "next dev",
+        "build": "next build",
+        "start": "next start",
+        "lint": "next lint"
+    },
+    "dependencies": {
+        "next": "latest",
+        "react": "latest",
+        "react-dom": "latest"
+    },
+    "devDependencies": {
+        "eslint": "latest",
+        "eslint-config-next": "latest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/drefloyd/andre_floyd_55032858.git"
+    },
+    "author": "Andre Floyd",
+    "license": "MIT"
+}
